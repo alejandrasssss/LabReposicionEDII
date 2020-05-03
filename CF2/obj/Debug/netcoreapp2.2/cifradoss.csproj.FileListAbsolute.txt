@@ -1,0 +1,34 @@
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\cifradoss.deps.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\cifradoss.runtimeconfig.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\cifradoss.runtimeconfig.dev.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\cifradoss.dll
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\bin\Debug\netcoreapp2.2\cifradoss.pdb
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.csprojAssemblyReference.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.RazorAssemblyInfo.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.RazorAssemblyInfo.cs
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.AssemblyInfoInputs.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.AssemblyInfo.cs
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.RazorTargetAssemblyInfo.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.dll
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.pdb
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Estructuras\cifradoss\obj\Debug\netcoreapp2.2\cifradoss.genruntimeconfig.cache
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\cifradoss.deps.json
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\cifradoss.runtimeconfig.json
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\cifradoss.runtimeconfig.dev.json
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\cifradoss.dll
+C:\Users\roche\Desktop\Alejandra\cifradosss\bin\Debug\netcoreapp2.2\cifradoss.pdb
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.csprojAssemblyReference.cache
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.RazorAssemblyInfo.cache
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.RazorAssemblyInfo.cs
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.AssemblyInfoInputs.cache
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.AssemblyInfo.cs
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.RazorTargetAssemblyInfo.cache
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.dll
+C:\Users\roche\Desktop\Alejandra\cifradosss\obj\Debug\netcoreapp2.2\cifradoss.pdb
